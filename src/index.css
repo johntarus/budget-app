@@ -10,3 +10,6 @@ body {
 		url(./assets/bg.png);
 	background-size: cover;
 }
+.footer{
+	color: red;
+}
